@@ -1,0 +1,5 @@
+Credentials cache: API:BB409437-D71F-4430-99F8-4857DA3EBDB1
+        Principal: fvander-@S19.BE
+
+  Issued                Expires             Flags    Principal
+Sep  7 15:52:29 2020  Sep  8 01:52:20 2020  FPIA   krbtgt/S19.BE@S19.BE
