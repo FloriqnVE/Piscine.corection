@@ -1,1 +1,2 @@
-ifconfig | grep "^[[:space:]]ether" | awk '{print $2}'
+ifconfig | grep "ether " |cut -d " " -f2
+
