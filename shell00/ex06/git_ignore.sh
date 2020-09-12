@@ -1,3 +1,2 @@
 #!/bin/sh
-
-git status -s --ignored | grep '!!' | cut -c4-
+git status -s --ignored | grep '!!' | sed 's/!! //'
